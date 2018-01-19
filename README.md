@@ -1,5 +1,5 @@
 # Stanford Research Institute Problem Solver (STRIPS)
-STRIPS is a First-Order Logic (FOL) language with an associated linear (total order) solver. Note that linear solvers have a few well-known issues, such as not dealing well with [http://en.wikipedia.org/wiki/Sussman_Anomaly](Sussman's Anomaly). Nevertheless, when learning planning algorithms, most students learn STRIPS first.
+STRIPS is a First-Order Logic (FOL) language with an associated linear (total order) solver. Note that linear solvers have a few well-known issues, such as not dealing well with [Sussman's Anomaly](http://en.wikipedia.org/wiki/Sussman_Anomaly). Nevertheless, when learning planning algorithms, most students learn STRIPS first.
 
 ## Problem Description
 The code implements the STRIPS problem description language. The first line is the initial state of the world:
